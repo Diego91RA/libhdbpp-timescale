@@ -18,7 +18,7 @@ set(CMAKE_COLOR_MAKEFILE ON)
 set(LIBHDBPP_TIMESCALE_NAME "libhdb++timescale")
 
 # Versioning
-set(VERSION_MAJOR "1")
+set(VERSION_MAJOR "2")
 set(VERSION_MINOR "0")
 set(VERSION_PATCH "0")
 set(VERSION_METADATA "")
